@@ -12,7 +12,7 @@ org_full_description: > # Enter your description on the next line. Be sure to in
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: woundclinitj@gmail.com
+org_general_email_inbox: woundclinictj@gmail.com
 org_street_address: #Please include suite number on the line below
 org_address_suite: 
 org_city: Tijuana
@@ -38,8 +38,8 @@ fiscal_sponsor_name:
 #ONLINE DONATIONS & EMAIL SIGNUPS
 #To use these services, enter the required usernames. For further instructions, consult the README file.
 #If you do not wish to use a service, simply remove everything after the colon (:), leaving the item blank
-donorbox_campaign_name: free-template-demo
-tinyletter_username: interestingnonprofits
+donorbox_campaign_name: wound-clinic-tj
+tinyletter_username: woundclinictj
 
 #SEARCH ENGINES
 #Changing this next setting to 'true' will allow your site to be indexed by search engines (like Google)
@@ -47,7 +47,7 @@ publish: false
 
 #THEME
 #Select one of the five color schemes (default, one, two, three, or four)
-theme: default
+theme: three
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
