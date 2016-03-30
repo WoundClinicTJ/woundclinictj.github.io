@@ -4,23 +4,23 @@
 #If you see '> # Enter on the next line', be sure the next line remains indented two spaces.
 
 #REQUIRED
-org_name: Project Example
+org_name: Wound Clinic TJ
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
+  A friendly, independent clinic focused on providing medical aid to underpriviledged people, no questions asked.
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
-  Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+  The Wound Clinic is an independent mobile clinic based in Tijuana, Mexico focused on providing humanitarian medical assistance to underserved people irrespective of their socioeconomic status, political and religious affiliations, gender, race, migration status, or substance dependency background based on their needs.
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: your-email@somedomain.com
-org_street_address: 1355 Market Street #Please include suite number on the line below
-org_address_suite: Suite 900
-org_city: San Francisco
-org_state: CA
+org_general_email_inbox: woundclinitj@gmail.com
+org_street_address: #Please include suite number on the line below
+org_address_suite: 
+org_city: Tijuana
+org_state: B.C.
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  94103
+  22000
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
-  (123) 456-7890
+  
 
 #SOCIAL MEDIA
 org_twitter_username: woundclinictj
